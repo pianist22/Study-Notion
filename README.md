@@ -137,7 +137,7 @@ Deploy the service.
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 # Contact
-For any questions or suggestions, please reach out to us at [My email](priyanshusaha944@gmail.com)
+For any questions or suggestions, please reach out to us at (priyanshusaha944@gmail.com)
 
 # Enjoy building and learning with StudyNotion!
 This Code is written under the guidance of [Love Babbar](https://github.com/loveBabbar)
